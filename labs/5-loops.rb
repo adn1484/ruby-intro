@@ -11,10 +11,26 @@ suits = ["Clubs", "Diamonds", "Hearts", "Spades"]
 
 # Sample output:
 # 2 of Clubs
+
+for rank in ranks
+for suit in suits
+    puts "#{rank} of #{suit}"
+end
+end
+
 # 2 of Diamonds
+
+
+
 # 2 of Hearts
+
+
 # 2 of Spades
+
+
 # 3 of Clubs
+
+
 # ...
 
 # CHALLENGE
